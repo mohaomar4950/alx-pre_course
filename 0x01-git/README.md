@@ -1,1 +1,1 @@
-1.Here is my first directory
+I'm happy to start my coding session.
