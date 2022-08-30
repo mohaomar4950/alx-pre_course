@@ -1,1 +1,1 @@
-I'm happy to start my coding session.
+Hi, I'm happy to start my coding session.
